@@ -15,5 +15,7 @@
 * Modifying the script to display Time Complexity info
 * Updating the visualization to 3D layout
 * Displaying the flow steps in the pseudo format so that everyone understands the algorithm easily
+* Provision for the user to select the layout he want to visualize the algorithm
+* Algorithm Comparision chart which describes the iterations & time complexity info based on the user input 
 
 ###### Note : This concept was taken from https://github.com/PushkaraSharma/Visualize_DS repository and applied few changes as per my need
